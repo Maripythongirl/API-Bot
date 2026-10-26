@@ -13,4 +13,4 @@ async def start(ctx):
     await ctx.send("Oi Oi! Seja bem-vindo(a) ao servidor! Sinta-se à vontade e divirta-se")
 
 
-bot.run("MTU2MTg1OTk5NzA4MjU5MTI2Mg.GvRLb4.FEKmx5ttOW7SP33sVMIZ1Xi82JhIg1-3bUFhK4")
+bot.run("")
